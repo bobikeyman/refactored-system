@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+UkiDQkdC10LfQvtC/0LDRgdC90L7QtSDRgdC+0LXQtNC40L3QtdC90LjQtSAyNC83
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+UpSDQoNCw0LHQvtGC0LDQtdGCINC60L7Qs9C00LAg0LTRgNGD0LPQuNC1INC90LXRgg==
 
-vless://17228651-b902-0011-bdd6-ccf31d78542b@185.40.28.220:8443?encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=raw&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20M247%20Europe%20SRL%201
-vless://17228651-b902-0011-bdd6-ccf31d78542b@185.40.28.220:8443?encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=raw&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20M247%20Europe%20SRL%202
-vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@caz.sempai.site:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=8gW92vrH7pDlJ4j2SXmFXH9zziQZAjuAxtgMpCol5xc&security=reality&sni=&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20Netgrid%20Host%20LTD%201
+vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@caz.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8gW92vrH7pDlJ4j2SXmFXH9zziQZAjuAxtgMpCol5xc&security=reality&sni=caz.sempai.site&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20Netgrid%20Host%20LTD%201
 vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@caz.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=caz.sempai.site&fp=firefox&pbk=8gW92vrH7pDlJ4j2SXmFXH9zziQZAjuAxtgMpCol5xc&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20Netgrid%20Host%20LTD%202
 vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@caz.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=caz.sempai.site&fp=chrome&pbk=8gW92vrH7pDlJ4j2SXmFXH9zziQZAjuAxtgMpCol5xc&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20Netgrid%20Host%20LTD%203
