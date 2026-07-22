@@ -1,0 +1,91 @@
+name: VPN Keys Checker (Go + Xray)
+
+on:
+  schedule:
+    # Каждые 3 часа по МСК (UTC+3): 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00
+    - cron: '0 21,0,3,6,9,12,15,18 * * *'
+  workflow_dispatch: # Ручной запуск из GitHub UI
+
+permissions:
+  contents: write
+
+env:
+  CONCURRENT_CHECKS: 50
+  TCP_TIMEOUT: 5
+  PROXY_TIMEOUT: 20
+  XRAY_START_DELAY: 2
+  MAX_LATENCY_MS: 3000
+
+jobs:
+  check-keys:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      # ── 1. Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Права на запуск бинарника
+      - name: Set permissions
+        run: chmod +x vpn-checker
+
+      # ── 3. Скачиваем Xray-core (последняя версия автоматически)
+      - name: Download Xray-core (latest)
+        run: |
+          echo "🔍 Fetching latest xray-core version..."
+          XRAY_VERSION=$(curl -sf https://api.github.com/repos/XTLS/Xray-core/releases/latest \
+            | grep '"tag_name"' | cut -d'"' -f4)
+
+          if [ -z "$XRAY_VERSION" ]; then
+            echo "⚠️  GitHub API rate limited, using fallback version"
+            XRAY_VERSION="v25.6.8"
+          fi
+
+          echo "📦 Xray version: $XRAY_VERSION"
+          URL="https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip"
+
+          wget -q "$URL" -O xray.zip
+          unzip -q xray.zip xray
+          chmod +x xray
+          echo "✅ $(./xray version | head -1)"
+
+      # ── 4. Запуск чекера
+      - name: Run VPN checker
+        run: |
+          ./vpn-checker \
+            -xray ./xray \
+            -j "$CONCURRENT_CHECKS" \
+            -tcp-timeout "$TCP_TIMEOUT" \
+            -proxy-timeout "$PROXY_TIMEOUT" \
+            -start-delay "$XRAY_START_DELAY" \
+            -max-latency "$MAX_LATENCY_MS" \
+            -subs subscriptions.txt
+
+      # ── 5. Коммит результатов
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add \
+            vpn.txt \
+            vpn_base64.txt \
+            vpn_renamed.txt \
+            vpn_renamed_base64.txt \
+            bobi_vpn.txt \
+            bobi_vpn_base64.txt \
+            bobi_vpn_lite.txt \
+            vpn_report.json \
+            countries/ 2>/dev/null || true
+
+          if git diff --staged --quiet; then
+            echo "⚠️  Нет изменений для коммита"
+          else
+            WORKING_COUNT=$(cat vpn_report.json 2>/dev/null | grep '"working_count"' | grep -o '[0-9]*' || echo "?")
+            git commit -m "🔑 VPN update — ${WORKING_COUNT} ключей — $(date +'%Y-%m-%d %H:%M') UTC"
+            git push
+            echo "✅ Results pushed!"
+          fi
