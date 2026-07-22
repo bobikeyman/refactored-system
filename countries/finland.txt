@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🇫🇮 BobiVPN Finland
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK4q2QINCb0YPRh9GI0LjQtSDRgdC10YDQstC10YDRiyDQtNC70Y8g0YLQtdCx0Y8=
+
+vless://c8b5f6c9-83ff-0021-be9c-f997a5b2f692@185.218.194.64:443?encryption=none&security=reality&sni=www.amd.com&fp=firefox&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&sid=8e5f0a7b&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20HD-decor%20Oy%201

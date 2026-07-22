@@ -1,0 +1,17 @@
+#profile-update-interval: 1
+#profile-title: 🇷🇺 BobiVPN Russia
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK4pqhINCi0L7Qu9GM0LrQviDQv9GA0L7QstC10YDQtdC90L3Ri9C1INGB0LXRgNCy0LXRgNGL
+
+vless://2a77a470-315c-493d-b690-59b814a804cb@213.171.28.163:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%22Cloud%20Technologies%22%20trad...%201
+vless://2a77a470-315c-493d-b690-59b814a804cb@213.171.28.163:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%22Cloud%20Technologies%22%20trad...%202
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20LLC%20VK%201
+vless://2a77a470-315c-493d-b690-59b814a804cb@147.45.47.22:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20New%20Hosting%20Technologies%201
+vless://2a77a470-315c-493d-b690-59b814a804cb@147.45.47.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20New%20Hosting%20Technologies%202
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Yandex.Cloud%201
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Yandex.Cloud%202
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07&type=tcp&headerType=none&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Yandex.Cloud%203
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Yandex.Cloud%204
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Yandex.Cloud%205
