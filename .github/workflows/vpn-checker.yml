@@ -36,11 +36,10 @@ jobs:
       - name: Download Xray-core (latest)
         run: |
           echo "🔍 Fetching latest xray-core version..."
-          XRAY_VERSION=$(curl -sf https://api.github.com/repos/XTLS/Xray-core/releases/latest \
-            | grep '"tag_name"' | cut -d'"' -f4)
+          XRAY_VERSION=$(curl -sf "https://api.github.com/repos/XTLS/Xray-core/releases/latest" | jq -r '.tag_name')
 
-          if [ -z "$XRAY_VERSION" ]; then
-            echo "⚠️  GitHub API rate limited, using fallback version"
+          if [ -z "$XRAY_VERSION" ] || [ "$XRAY_VERSION" = "null" ]; then
+            echo "⚠️  Не удалось получить версию, использую fallback"
             XRAY_VERSION="v25.6.8"
           fi
 
