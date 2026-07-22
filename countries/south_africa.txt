@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: 🇿🇦 BobiVPN South Africa
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+Hv/Cfh6YgQm9iaVZQTiDigJQgU291dGggQWZyaWNhCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7QsgrirZAg0JvRg9GH0YjQuNC1INGB0LXRgNCy0LXRgNGLINC00LvRjyDRgtC10LHRjw==
+
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&sni=www.icloud.com&spx=/#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20%7C%20Google%201
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&type=tcp&headerType=none#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20%7C%20Google%202
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20%7C%20Google%203
