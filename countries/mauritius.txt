@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🌍 BobiVPN Mauritius
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYXVyaXRpdXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCfko4g0J/RgNC10LzQuNGD0Lwg0LrQsNGH0LXRgdGC0LLQviDQsdC10YHQv9C70LDRgtC90L4=
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@173.245.49.30:8880/?encryption=none&type=ws&flow=&path=%2F&host=vms.lifetime36.workers.dev&freeinternet=kizyak_vpn1784731246130#%F0%9F%8C%8D%20Mauritius%20%7C%20MauritiusTelecom%201

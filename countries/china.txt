@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh7MgQm9iaVZQTiDigJQgQ2hpbmEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKaoSDQotC+0LvRjNC60L4g0L/RgNC+0LLQtdGA0LXQvdC90YvQtSDRgdC10YDQstC10YDRiw==
+#announce: base64:8J+HqPCfh7MgQm9iaVZQTiDigJQgQ2hpbmEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKcqCDQntCx0L3QvtCy0LvRj9C10YLRgdGPINCw0LLRgtC+0LzQsNGC0LjRh9C10YHQutC4
 
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%201
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?type=tcp&security=none&encryption=none&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%201
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%202
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&headerType=none&type=tcp&security=none&descriptions=люби_себяce3681#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%203
-vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=%2Fe088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20Xnnet%201
-vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=%2Fe088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20Xnnet%202
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?type=tcp&security=none&encryption=none&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%203
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%204
