@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKtkCDQm9GD0YfRiNC40LUg0YHQtdGA0LLQtdGA0Ysg0LTQu9GPINGC0LXQsdGP
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCflKUg0KDQsNCx0L7RgtCw0LXRgiDQutC+0LPQtNCwINC00YDRg9Cz0LjQtSDQvdC10YI=
 
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%201
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%202
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880/?path=%2F&host=vms.lifetime58.workers.dev&type=ws&flow=&encryption=none&freeinternet=kizyak_vpn178473124225#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20UCLOUD%20INFORMATION%20TECHNO...%201
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20UCLOUD%20INFORMATION%20TECHNO...%202
