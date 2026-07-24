@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh7MgQm9iaVZQTiDigJQgQ2hpbmEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCfmoAg0JzQsNC60YHQuNC80LDQu9GM0L3QsNGPINGB0LrQvtGA0L7RgdGC0Yw=
 
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?type=tcp&headerType=none&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%201
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%202
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%203
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?type=tcp&headerType=none&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%204
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%201
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&headerType=none&encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%202
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&headerType=none&encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%203
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%204
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20%7C%20China%20Mobile%20communicatio...%205
