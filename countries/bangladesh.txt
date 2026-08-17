@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🌍 BobiVPN Bangladesh
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBCYW5nbGFkZXNoCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsgrwn5SSINCR0LXQt9C+0L/QsNGB0L3QvtC1INGB0L7QtdC00LjQvdC10L3QuNC1IDI0Lzc=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJib2FyZC0wMi5kZG5za3VubHVuLmNvbSIsICJwb3J0IjogIjExODg1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJhOGJjY2U0My1hYmRhLTMxNWItOGU4MS1lM2U2NWJjYjNkMDciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJib2FyZC0wMi5kZG5za3VubHVuLmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%8C%8D%20Bangladesh%20%7C%20Kaopu%20Cloud%20HK%201
