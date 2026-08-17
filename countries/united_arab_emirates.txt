@@ -3,9 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCflJIg0JHQtdC30L7Qv9Cw0YHQvdC+0LUg0YHQvtC10LTQuNC90LXQvdC40LUgMjQvNw==
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKtkCDQm9GD0YfRiNC40LUg0YHQtdGA0LLQtdGA0Ysg0LTQu9GPINGC0LXQsdGP
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us&packetEncoding=none#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%201
+vless://6f719ff5-cb04-4e94-b982-0bd94ba49d94@pk-play.mobileemdad.top:443?type=tcp&security=reality&encryption=none&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&sni=delivery.mp.microsoft.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20G-Core%20Labs%201
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%201
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us&packetEncoding=none#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%202
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%203
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%204
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us&__rand=aabb56bc#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%204
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us&packetEncoding=none#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%205
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20Oracle%206

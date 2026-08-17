@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsgrwn5KOINCf0YDQtdC80LjRg9C8INC60LDRh9C10YHRgtCy0L4g0LHQtdGB0L/Qu9Cw0YLQvdC+
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7QsgrimqEg0KLQvtC70YzQutC+INC/0YDQvtCy0LXRgNC10L3QvdGL0LUg0YHQtdGA0LLQtdGA0Ys=
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&sni=baltic.cendora.ru#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20SERV.HOST%20GROUP%20LTD%201
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20SERV.HOST%20GROUP%20LTD%202
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20UAB%20Cherry%20Servers%201
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20UAB%20Cherry%20Servers%202
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20UAB%20Cherry%20Servers%201
