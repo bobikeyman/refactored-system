@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+UkiDQkdC10LfQvtC/0LDRgdC90L7QtSDRgdC+0LXQtNC40L3QtdC90LjQtSAyNC83
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+agCDQnNCw0LrRgdC40LzQsNC70YzQvdCw0Y8g0YHQutC+0YDQvtGB0YLRjA==
 
-vless://73796e63-0000-4000-8000-000000000008@172.67.155.136:2095?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%201
-vless://73796e63-0000-4000-8000-000000000007@104.21.64.198:2086?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%202
-vless://73796e63-0000-4000-8000-000000000008@172.67.155.136:2095?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%203
-vless://73796e63-0000-4000-8000-000000000007@104.21.64.198:2086?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%204
-vless://73796e63-0000-4000-8000-000000000007@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2086?type=ws&security=none&encryption=none&path=%2Fsync&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&headerType=none#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%205
+vless://73796e63-0000-4000-8000-000000000007@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2086?type=ws&security=none&encryption=none&path=%2Fsync&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&headerType=none#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20Google%201
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=agile-raptor.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20VERIXI%20SA%201
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=zealous-vortex.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20VERIXI%20SA%202
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=bright-glyph.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20VERIXI%20SA%203
