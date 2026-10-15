@@ -3,16 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7EgQm9iaVZQTiDigJQgQWxiYW5pYQrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCflKUg0KDQsNCx0L7RgtCw0LXRgiDQutC+0LPQtNCwINC00YDRg9Cz0LjQtSDQvdC10YI=
+#announce: base64:8J+HpvCfh7EgQm9iaVZQTiDigJQgQWxiYW5pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+agCDQnNCw0LrRgdC40LzQsNC70YzQvdCw0Y8g0YHQutC+0YDQvtGB0YLRjA==
 
+vless://e5544327-834c-455a-9db5-2454c788fa17@85.155.228.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&security=reality&sid=360881fdb193758d&sni=github.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20Andrew%20Kristuli%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM1BLT0NqN3dIbDVQazZ0aEk5SHlYdENhNkpVMTgwSWxCcFdBTmdGamtZPUAxMzAuNDkuMTg5LjE1ODo0MzU1OA==#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20Global%20Connectivity%20Solut...%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM1BLT0NqN3dIbDVQazZ0aEk5SHlYdENhNkpVMTgwSWxCcFdBTmdGamtZPUAxMzAuNDkuMTg5LjE1ODo0MzU1OA==#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20Global%20Connectivity%20Solut...%202
 vless://2ffa91fe-e1cc-4c44-a90a-45002feae978@aelix-al.safire-soleiman.ir:6311?type=tcp&security=reality&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20Global%20Connectivity%20Solut...%203
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&security=reality&sid=b276e04195d77f6b&sni=eh3.vk.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%201
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&security=reality&sid=b276e04195d77f6b&sni=eh3.vk.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%202
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&sid=b276e04195d77f6b&sni=eh3.vk.ru#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%203
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&security=reality&sid=b276e04195d77f6b&sni=eh3.vk.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%204
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&sid=b276e04195d77f6b&sni=eh3.vk.ru#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%205
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&sid=b276e04195d77f6b&sni=eh3.vk.ru#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%206
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&security=reality&sid=b276e04195d77f6b&sni=eh3.vk.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%207
-vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?type=tcp&security=reality&sni=eh3.vk.ru&flow=xtls-rprx-vision&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&sid=b276e04195d77f6b#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20ONEPROVIDER%208
