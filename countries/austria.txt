@@ -3,18 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKcqCDQntCx0L3QvtCy0LvRj9C10YLRgdGPINCw0LLRgtC+0LzQsNGC0LjRh9C10YHQutC4
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK8J+MkCDQodCy0L7QsdC+0LTQsCDQsdC10Lcg0LPRgNCw0L3QuNGG
 
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%201
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?type=tcp&sni=138.124.90.177#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%202
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%203
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.115.13:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%201
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.115.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapereval.cc&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%202
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%203
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%204
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?&security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%205
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=safari#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%206
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%207
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%208
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%209
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20FDCservers.net%2010
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%201
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%202
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?type=tcp&sni=138.124.90.177#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Aeza%20International%20LTD%203
