@@ -3,11 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hu/Cfh7MgQm9iaVZQTiDigJQgVmlldG5hbQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LIK4pyoINCe0LHQvdC+0LLQu9GP0LXRgtGB0Y8g0LDQstGC0L7QvNCw0YLQuNGH0LXRgdC60Lg=
+#announce: base64:8J+Hu/Cfh7MgQm9iaVZQTiDigJQgVmlldG5hbQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCfjI0g0KHQtdGA0LLQtdGA0Ysg0L/QviDQstGB0LXQvNGDINC80LjRgNGD
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?flow=xtls-rprx-vision&fp=chrome&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%201
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%201
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=chrome&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%202
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%203
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%204
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20GMO-Z.com%20Runsystem%20Joint...%201
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?encryption=none&security=reality&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&sid=a46bb5972cf50671&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%204
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?flow=xtls-rprx-vision&fp=chrome&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%205
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=chrome&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%206
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%207
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20BAOVECAS%208
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=raw#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20GMO-Z.com%20Runsystem%20Joint...%201
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20GMO-Z.com%20Runsystem%20Joint...%202
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20GMO-Z.com%20Runsystem%20Joint...%203
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%7C%20GMO-Z.com%20Runsystem%20Joint...%204
