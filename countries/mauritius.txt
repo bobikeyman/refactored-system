@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYXVyaXRpdXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCfjI0g0KHQtdGA0LLQtdGA0Ysg0L/QviDQstGB0LXQvNGDINC80LjRgNGD
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?type=ws&host=vms.lifetime06.workers.dev&ed=2560#%F0%9F%8C%8D%20Mauritius%20%7C%20MauritiusTelecom%201
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev#%F0%9F%8C%8D%20Mauritius%20%7C%20MauritiusTelecom%201
