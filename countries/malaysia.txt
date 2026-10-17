@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh74gQm9iaVZQTiDigJQgTWFsYXlzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCvCfmoAg0JzQsNC60YHQuNC80LDQu9GM0L3QsNGPINGB0LrQvtGA0L7RgdGC0Yw=
+#announce: base64:8J+HsvCfh74gQm9iaVZQTiDigJQgTWFsYXlzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCyCuKaoSDQotC+0LvRjNC60L4g0L/RgNC+0LLQtdGA0LXQvdC90YvQtSDRgdC10YDQstC10YDRiw==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0Ny4yNTAuMTM1LjI0NCIsICJwb3J0IjogIjEwMDAwIiwgImlkIjogImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAicmF3IiwgInR5cGUiOiAiIiwgInRscyI6ICIifQ==#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%7C%20Alibaba%20%28US%29%20Technology%20C...%201
